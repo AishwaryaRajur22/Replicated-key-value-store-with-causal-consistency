@@ -1,4 +1,4 @@
-# Web Dashboard for Efficient Data Analysis
+# Replicated key-value store with causal consistency 
 
 This project is a **replicated, fault-tolerant, and causally consistent key-value store**. It is designed to ensure data availability and consistency in distributed systems through replication and causal metadata tracking.
 
